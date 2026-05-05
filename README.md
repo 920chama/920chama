@@ -39,6 +39,16 @@
 
 ---
 
+## badges
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+
+## animations
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Learner;Tech+Enthusiast)
+
+
+## view count
+![](https://komarev.com/ghpvc/?username=920chama)
+
 ## 📊 GitHub Stats
 
 <p align="center">
