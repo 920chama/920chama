@@ -39,21 +39,15 @@
 
 ---
 
-## badges
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
 
-## animations
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Learner;Tech+Enthusiast)
-
-
-## view count
+## Profile View Count
 ![](https://komarev.com/ghpvc/?username=920chama)
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=920chama&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=920chama&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=920chama&theme=tokyonight" />
 </p>
 
 ---
