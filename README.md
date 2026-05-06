@@ -41,7 +41,7 @@
 
 <h3 align="center">Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,mssql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
 <br>
