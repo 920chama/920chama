@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Learner;IT+Undergraduate&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Tech+Enthusiast;Fast+Learner;Problem+Solver;IT+Undergraduate&center=true&width=500&height=50">
 </p>
 
 ---
