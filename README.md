@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chamathka</h1>
+<h1 align="center">Hi 👋, I'm Chamathka Palihawadana</h1>
 
 <h3 align="center">IT Undergraduate | University of Moratuwa</h3>
 
